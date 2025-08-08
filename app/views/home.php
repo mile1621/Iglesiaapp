@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bienvenido</title>
     <style>
-        /* TEST GWebhook*/
+        /* TEST GWebhook Two*/
         /* Estilos para la barra de navegación */
         .navbar {
             background-color: whitesmoke; /* Color de fondo semi-transparente */
