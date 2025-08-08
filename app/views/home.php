@@ -7,7 +7,7 @@
     <title>Bienvenido</title>
     <style>
         /* TEST GWebhook   */
-        /* Estilos para la barra de navegación */
+        /* Estilos para la barra de navegación   */
         .navbar {
             background-color: whitesmoke; /* Color de fondo semi-transparente */
             height: 50px; /* Ajusta la altura de la barra según sea necesario */
